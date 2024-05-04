@@ -21,3 +21,21 @@ This app comprises three main parts aimed at testing the ability to transfer dat
 
 You can access the live demo of this application at [https://6636a8ac783c73465bf7285a--enchanting-crumble-657979.netlify.app/](https://6636a8ac783c73465bf7285a--enchanting-crumble-657979.netlify.app/)
 
+## Launch the App
+
+1. Install the dependencies :
+
+    ```
+    npm install
+    ```
+
+2. Once the dependencies are installed, you can launch the app by running:
+
+    ```
+    npm start
+    ```
+    or
+
+     ```
+    npm run build + serve -s build
+    ```
