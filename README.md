@@ -37,5 +37,9 @@ You can access the live demo of this application at [https://6636a8ac783c73465bf
     or
 
      ```
-    npm run build + serve -s build
+    npm run build
+    ```
+   and
+    ```
+    serve -s build
     ```
