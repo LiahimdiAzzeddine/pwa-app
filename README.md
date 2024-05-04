@@ -9,7 +9,7 @@ Additionally, two packages have been added:
 - [react-indexed-db-hook](https://www.npmjs.com/package/react-indexed-db): This package is used to create and interacte IndexedDB.
 - [react-ios-pwa-prompt](https://www.npmjs.com/package/react-ios-pwa-prompt): A React component that provides a customizable Progressive Web App (PWA) prompt, instructing the user to Add the app to Home Screen.
 
-## pages
+## Pages
 
 This app comprises three main parts aimed at testing the ability to transfer data between pages and components, and  interacting with IndexedDB:
 
@@ -39,7 +39,7 @@ You can access the live demo of this application at [https://6636a8ac783c73465bf
      ```
     npm run build
     ```
-   and
+      and
     ```
     serve -s build
     ```
