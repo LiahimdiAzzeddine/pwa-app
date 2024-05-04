@@ -16,3 +16,8 @@ This app comprises three main parts aimed at testing the ability to transfer dat
 33. **Login**: Illustrates data transfer between pages using the URL.
 33. **Dashboard**: Illustrates data transfer between components.
 33. **IndexedDB-CRUD**: Provides interaction with IndexedDB through simple CRUD functions: add, getAll, and delete.
+
+## Live Demo
+
+You can access the live demo of this application at [https://6636a8ac783c73465bf7285a--enchanting-crumble-657979.netlify.app/](https://6636a8ac783c73465bf7285a--enchanting-crumble-657979.netlify.app/)
+
